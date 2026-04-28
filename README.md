@@ -31,7 +31,7 @@
 
 ## Technologies Used
 
-- C# (.NET 8.0)
-- Visual Studio Community 2022
+- C# (.NET 10.0)
+- Visual Studio Community 2026
 - Windows Forms (WinForms)
 - Console Applications
