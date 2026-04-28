@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "SectionA_Q1_StudentMarks/1.0.0": {
+        "runtime": {
+          "SectionA_Q1_StudentMarks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SectionA_Q1_StudentMarks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

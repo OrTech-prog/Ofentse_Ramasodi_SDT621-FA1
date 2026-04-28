@@ -1,0 +1,14 @@
+C:\CTU OCC SE\OCC SE Year 2 (2026)\SDT621\Formatives\SDT621_Formative_Assessment_1\SectionA_Q1_StudentMarks\bin\Debug\net10.0\SectionA_Q1_StudentMarks.exe
+C:\CTU OCC SE\OCC SE Year 2 (2026)\SDT621\Formatives\SDT621_Formative_Assessment_1\SectionA_Q1_StudentMarks\bin\Debug\net10.0\SectionA_Q1_StudentMarks.deps.json
+C:\CTU OCC SE\OCC SE Year 2 (2026)\SDT621\Formatives\SDT621_Formative_Assessment_1\SectionA_Q1_StudentMarks\bin\Debug\net10.0\SectionA_Q1_StudentMarks.runtimeconfig.json
+C:\CTU OCC SE\OCC SE Year 2 (2026)\SDT621\Formatives\SDT621_Formative_Assessment_1\SectionA_Q1_StudentMarks\bin\Debug\net10.0\SectionA_Q1_StudentMarks.dll
+C:\CTU OCC SE\OCC SE Year 2 (2026)\SDT621\Formatives\SDT621_Formative_Assessment_1\SectionA_Q1_StudentMarks\bin\Debug\net10.0\SectionA_Q1_StudentMarks.pdb
+C:\CTU OCC SE\OCC SE Year 2 (2026)\SDT621\Formatives\SDT621_Formative_Assessment_1\SectionA_Q1_StudentMarks\obj\Debug\net10.0\SectionA_Q1_StudentMarks.GeneratedMSBuildEditorConfig.editorconfig
+C:\CTU OCC SE\OCC SE Year 2 (2026)\SDT621\Formatives\SDT621_Formative_Assessment_1\SectionA_Q1_StudentMarks\obj\Debug\net10.0\SectionA_Q1_StudentMarks.AssemblyInfoInputs.cache
+C:\CTU OCC SE\OCC SE Year 2 (2026)\SDT621\Formatives\SDT621_Formative_Assessment_1\SectionA_Q1_StudentMarks\obj\Debug\net10.0\SectionA_Q1_StudentMarks.AssemblyInfo.cs
+C:\CTU OCC SE\OCC SE Year 2 (2026)\SDT621\Formatives\SDT621_Formative_Assessment_1\SectionA_Q1_StudentMarks\obj\Debug\net10.0\SectionA_Q1_StudentMarks.csproj.CoreCompileInputs.cache
+C:\CTU OCC SE\OCC SE Year 2 (2026)\SDT621\Formatives\SDT621_Formative_Assessment_1\SectionA_Q1_StudentMarks\obj\Debug\net10.0\SectionA_Q1_StudentMarks.dll
+C:\CTU OCC SE\OCC SE Year 2 (2026)\SDT621\Formatives\SDT621_Formative_Assessment_1\SectionA_Q1_StudentMarks\obj\Debug\net10.0\refint\SectionA_Q1_StudentMarks.dll
+C:\CTU OCC SE\OCC SE Year 2 (2026)\SDT621\Formatives\SDT621_Formative_Assessment_1\SectionA_Q1_StudentMarks\obj\Debug\net10.0\SectionA_Q1_StudentMarks.pdb
+C:\CTU OCC SE\OCC SE Year 2 (2026)\SDT621\Formatives\SDT621_Formative_Assessment_1\SectionA_Q1_StudentMarks\obj\Debug\net10.0\SectionA_Q1_StudentMarks.genruntimeconfig.cache
+C:\CTU OCC SE\OCC SE Year 2 (2026)\SDT621\Formatives\SDT621_Formative_Assessment_1\SectionA_Q1_StudentMarks\obj\Debug\net10.0\ref\SectionA_Q1_StudentMarks.dll
