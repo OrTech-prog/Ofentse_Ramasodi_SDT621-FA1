@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../LanguageAppWinForms/SectionA_Q3_LanguageAppWinForms.csproj" />
+  <Project Path="../SectionA_Q2_ATMConsoleApp/SectionA_Q2_ATMConsoleApp.csproj" />
+  <Project Path="../SectionB_Q1_Municipality/SectionB_Q1_Municipality.csproj" />
+  <Project Path="../SectionB_Q2_DigitalIdentity/SectionB_Q2_DigitalIdentity.csproj" />
+  <Project Path="SectionA_Q1_StudentMarksConsoleApp.csproj" />
+</Solution>
